@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Bruce's github stats](https://github-readme-stats.vercel.app/api?username=bruceyang2012&show_icons=true&theme=tokyonight)
+
+I am an AI algorithm engineer, specializing in computer vison.
+
+📫 Welcome anyone to communicate with me!
